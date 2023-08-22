@@ -2,6 +2,62 @@ github_users:
   - MASHOD0
 
 github_repos:
+  - MASHOD0/go-lang-experiments
+  - MASHOD0/alzheimers_detection_application
+  - MASHOD0/alizheimers_detection_papers
+  - MASHOD0/alzheimers_detection_models
+  - MASHOD0/ss
+  - MASHOD0/SN_presentation
+  - MASHOD0/heart_failure_prediction
+  - MASHOD0/parkinsons_disease_classification
+  - MASHOD0/loader_implementation
+  - MASHOD0/spaceship_titanic
+  - MASHOD0/introduction_to_machine_learning_with_python
+  - MASHOD0/AIML
+  - MASHOD0/image_caption
+  - MASHOD0/image_caption_2.0
+  - MASHOD0/cheapify
+  - MASHOD0/The_Annotated_Transformer
+  - MASHOD0/pptx_to_pdf
+  - MASHOD0/computer_networks
+  - MASHOD0/AIML-Presentation
+  - MASHOD0/et-project
+  - MASHOD0/fake-news-detection-svm
+  - MASHOD0/plagarism_checker_application
+  - MASHOD0/Plagarism_checker_algorithm
+  - MASHOD0/DBMS
+  - MASHOD0/CourseWare
+  - MASHOD0/CollegeCourseWare
+  - MASHOD0/course_delivery_pipeline
+  - MASHOD0/Intel_x86_asm-
+  - MASHOD0/DebugElCodice
+  - MASHOD0/Assembly-Lang-8086
+  - MASHOD0/IWT
+  - MASHOD0/OPJ
+  - MASHOD0/DSA
+  - MASHOD0/Sudoku
+  - MASHOD0/SIH2022
+  - MASHOD0/hashcode
+  - MASHOD0/hashcode_example_pizza
+  - MASHOD0/hAIoTthon
+  - MASHOD0/MEEM
+  - MASHOD0/teachbot_1
+  - MASHOD0/ATFL
+  - MASHOD0/SVM
+  - MASHOD0/GraphTheory
+  - MASHOD0/PIC
+  - MASHOD0/Teachbot
+  - MASHOD0/mario_1
+  - MASHOD0/pong
+  - MASHOD0/ProjectSearch
+  - MASHOD0/tictactoe
+  - MASHOD0/trafficSigns_CNN
+  - MASHOD0/CS50intro
+  - MASHOD0/ProjectMota
+  - MASHOD0/DSCEWebinar
+  
+
+  
   # - alshedivat/al-folio
   # - twbs/bootstrap
   # - jekyll/jekyll
