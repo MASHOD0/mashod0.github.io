@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects & Presentations
 permalink: /projects/
-description: My Projects.
+description: My Projects and Presentations.
 nav: true
 nav_order: 2
-display_categories: [College, Hackathon, Personal]
+display_categories: [Presentations, College, Hackathon, Personal]
 horizontal: false
 ---
 
