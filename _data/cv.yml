@@ -59,13 +59,38 @@
   type: time_table
   contents:
     - title: Programing Languages
-      contents: Python(Flask, Numpy, Matplotlib, Pandas, Jupyter, Django), C, Lua, R, java, C++(basics), javascript(basics)
+      items: 
+        - Python(Flask, Numpy, Matplotlib, Pandas, Jupyter, Django)
+        - C
+        - Lua
+        - R
+        - java
+        - C++(basics)
+        - javascript(basics)
     - title: Query & Markup Languages
-      contents: PostgresQL, SQL3(basics),SQLite(basics), HTML, CSS,Markdown, XML(basics)
+      items: 
+      - PostgresQL
+      - SQL3(basics)
+      - SQLite(basics)
+      - HTML
+      - CSS
+      - Markdown
+      - XML(basics)
     - title: AI/ML
-      contents: Machine learning, Statistical computing methods, Deeplearning, Opencv, Tensorflow, Pytorch(basics), Natural Language Processing
+      items: 
+      - Machine learning
+      - Statistical computing methods
+      - Deeplearning
+      - Opencv(basics)
+      - Tensorflow(basics)
+      - Pytorch(basics)
+      - Natural Language Processing
     - title: Additional Skills
-      contents: Git, Docker(basics), Apache Airflow, AWS
+      items: 
+      - Git
+      - Docker(basics)
+      - Apache Airflow
+      - AWS
 
    
 
