@@ -2,7 +2,6 @@
 layout: page
 title: Early diagnosis of Alzehiemer’s disease Application
 description: Mini Project - 6th semester.
-img: assets/img/12.jpg
 importance: 1
 category: College
 ---
