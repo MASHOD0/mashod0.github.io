@@ -5,7 +5,7 @@ permalink: /projects/
 description: My Projects and Presentations.
 nav: true
 nav_order: 2
-display_categories: [Presentations, College, Hackathon, Personal]
+display_categories: [Presentations, Personal, College, Hackathon, Labs]
 horizontal: false
 ---
 
