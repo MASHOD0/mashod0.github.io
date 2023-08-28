@@ -81,7 +81,7 @@ scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: +918500025131 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
-medium_username: # your Medium username
+medium_username: mashhood2002 # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
@@ -102,12 +102,12 @@ pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: # your instagram id
 facebook_id: # your facebook id
-youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: mashhoodalam198 # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 
-contact_note: >
-  I Prefer Email, but open all possible ways of contacting :)
+contact_note: > 
+I’m always open to new opportunities and collaborations. Thank you for stopping by and I hope you enjoy my work!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -267,7 +267,7 @@ jekyll-archives:
     category: '/blog/category/:name/'
 
 display_tags: [] # these tags will be displayed on the front page of your blog
-display_categories: ['ai', 'os', 'software developement'] # these categories will be displayed on the front page of your blog
+display_categories: ['ai', 'os', 'software_developement', 'mathematics'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
